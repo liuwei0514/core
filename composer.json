@@ -23,7 +23,7 @@
   "require": {
     "apiato/containers-installer" : "1.0.*",
     "guzzlehttp/guzzle": "^6.3",
-    "prettus/l5-repository": "^2.6",
+    "clms2/l5-repository": "^3.0",
     "barryvdh/laravel-cors": "^0.11",
     "spatie/laravel-fractal": "5.3.*",
     "vinkla/hashids": "^5.0",
